@@ -1,0 +1,14 @@
+{
+  "name": "pt-playground",
+  "version": "1.0.0",
+  "description": "exploring PivotalTracker API",
+  "main": "index.js",
+  "repository": "https://github.com/andela-anandaa/pt-playground.git",
+  "author": "Anthony Nandaa <anthony.nandaa@andela.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2"
+  }
+}
